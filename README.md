@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project analyses 10,000 synthetic ED patient visits across a full year (2023).
+This project analyses 10,000 synthetic ED patient visits across a full year.
 It answers 6 real operational questions that hospital management teams care about:
 
 | Question | Analysis |
@@ -19,25 +19,6 @@ It answers 6 real operational questions that hospital management teams care abou
 | Does wait time hurt satisfaction scores? | Correlation + regression |
 | Which insurance types drive the most revenue? | Payer-mix financial analysis |
 
----
-
-## 🗂️ Project Structure
-hospital_ed_analytics/
-├── data/
-│   └── ed_patient_data.csv          # 10,000 patient records, 21 columns
-├── src/
-│   ├── generate_data.py             # Day 1 — Synthetic dataset generation
-│   ├── eda.py                       # Day 2 — Exploratory data analysis
-│   ├── time_series.py               # Day 3 — Demand & staffing analysis
-│   ├── triage_analysis.py           # Day 4 — Wait time & safety breaches
-│   ├── readmission_model.py         # Day 5 — ML readmission prediction
-│   ├── los_revenue.py               # Day 6 — LOS, revenue & satisfaction
-│   └── dashboard.py                 # Day 7 — Interactive Dash dashboard
-├── outputs/
-│   ├── plots/                       # 20 saved chart PNGs
-│   └── reports/                     # 15 summary CSV reports
-├── requirements.txt
-└── README.md
 ## 🔑 Key Findings
 
 - **92.9%** of ESI 1 (cardiac arrest, septic shock) patients exceeded the 5-minute safety benchmark
@@ -61,7 +42,7 @@ hospital_ed_analytics/
 
 ## 📈 Dashboard Preview
 
-The Day 7 dashboard includes:
+The dashboard includes:
 - 6 live KPI cards (visits, wait time, LOS, readmission rate, satisfaction, revenue)
 - Hourly arrival volume chart
 - Benchmark breach rate by triage level
@@ -69,7 +50,6 @@ The Day 7 dashboard includes:
 - Revenue by insurance type
 - Satisfaction vs wait time scatter with regression line
 
-All charts update live when you change the Department / Insurance / Triage filters.
 
 ## 💡 Skills Demonstrated
 
