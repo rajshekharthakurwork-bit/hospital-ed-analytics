@@ -1,3 +1,4 @@
+<img width="1912" height="869" alt="Screenshot 2026-05-24 151515" src="https://github.com/user-attachments/assets/f9729e27-5caa-41ef-8f36-95a103d089ca" />
 # 🏥 Hospital Emergency Department — Patient Flow & Operational Analytics
 
 > A full end-to-end data analytics project simulating real hospital ED operations.
