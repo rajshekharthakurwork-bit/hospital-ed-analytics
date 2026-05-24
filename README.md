@@ -27,6 +27,7 @@ It answers 6 real operational questions that hospital management teams care abou
 |----------|------|
 | 📊 Kaggle Dataset | [Hospital ED Dataset](https://www.kaggle.com/datasets/rajshekhar43/hospital-emergency-department-patient-flow-dataset) |
 | 💻 GitHub Repo | [hospital-ed-analytics](https://github.com/rajshekharthakurwork-bit/hospital-ed-analytics) |
+| 🏥 Dashboard |[dashboard](http://127.0.0.1:8050/)
 
 ## 🔑 Key Findings
 
@@ -59,7 +60,6 @@ The dashboard includes:
 - Revenue by insurance type
 - Satisfaction vs wait time scatter with regression line
 
-  Dashboard http://127.0.0.1:8050/
 
 
 ## 💡 Skills Demonstrated
