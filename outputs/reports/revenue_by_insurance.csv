@@ -1,0 +1,6 @@
+insurance_type,visits,total_billed,avg_bill,median_bill,visit_share_pct,revenue_share_pct
+Private,3543,19907239.73,5618.75,4548.93,35.4,44.6
+Medicare,2774,11818095.97,4260.31,3367.83,27.7,26.4
+Medicaid,1933,6873763.42,3556.01,2886.69,19.3,15.4
+Self-pay,1025,3220400.03,3141.85,2515.89,10.2,7.2
+Government,725,2864631.6,3951.22,3071.74,7.2,6.4

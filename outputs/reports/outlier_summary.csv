@@ -1,0 +1,7 @@
+column,outliers,pct,lo,hi
+patient_age,0,0.0,-52.0,124.0
+wait_time_triage_min,0,0.0,-22.75,61.65
+wait_time_doctor_min,709,7.1,-68.85,168.35
+length_of_stay_hrs,461,4.6,-3.1,8.78
+satisfaction_score,255,2.6,3.1,9.5
+billed_amount_usd,414,4.1,-4589.53,12481.95

@@ -1,0 +1,10 @@
+department,visits,total_billed,avg_bill
+Emergency,2792,10361978.44,3711.31
+Cardiology,1333,6644807.92,4984.85
+Orthopedics,1229,6032181.69,4908.2
+Neurology,1007,4986988.49,4952.32
+Trauma,830,4706448.47,5670.42
+Pediatrics,981,4026855.45,4104.85
+Obs & Gynae,859,3815255.86,4441.51
+General Surgery,581,2795185.42,4810.99
+Psychiatry,388,1314429.01,3387.7
