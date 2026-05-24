@@ -50,6 +50,8 @@ The dashboard includes:
 - Revenue by insurance type
 - Satisfaction vs wait time scatter with regression line
 
+  Dashboard http://127.0.0.1:8050/
+
 
 ## 💡 Skills Demonstrated
 
