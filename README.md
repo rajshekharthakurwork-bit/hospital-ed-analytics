@@ -20,6 +20,14 @@ It answers 6 real operational questions that hospital management teams care abou
 | Does wait time hurt satisfaction scores? | Correlation + regression |
 | Which insurance types drive the most revenue? | Payer-mix financial analysis |
 
+
+## 🔗 Links
+
+| Platform | Link |
+|----------|------|
+| 📊 Kaggle Dataset | [Hospital ED Dataset](https://www.kaggle.com/datasets/rajshekhar43/hospital-emergency-department-patient-flow-dataset) |
+| 💻 GitHub Repo | [hospital-ed-analytics](https://github.com/rajshekharthakurwork-bit/hospital-ed-analytics) |
+
 ## 🔑 Key Findings
 
 - **92.9%** of ESI 1 (cardiac arrest, septic shock) patients exceeded the 5-minute safety benchmark
